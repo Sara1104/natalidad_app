@@ -1,6 +1,6 @@
 # Predicción de Natalidad en Bogotá con Flask y Machine Learning
 
-Este proyecto tiene como objetivo predecir el número de nacimientos en Bogotá para un año ingresado por el usuario, utilizando un modelo de **regresión lineal** entrenado con datos reales del DANE.
+Este proyecto tiene como objetivo predecir el número de nacimientos en Bogotá para un año ingresado por el usuario, utilizando un modelo de **regresión lineal** entrenado con datos reales.
 
 ## Descripción
 
